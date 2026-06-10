@@ -1,3 +1,6 @@
+chatgpt chat link: https://chatgpt.com/share/6a294e8b-66b4-83e8-bc1b-e4af63c97ee6
+
+
 # Focus Mode Activator
 
 Chrome Extension (Manifest V3) foundation built with React, TypeScript, and Vite.
